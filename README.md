@@ -41,12 +41,11 @@ Un jeu HTML rapide et addictif où tu dois empiler les blocs parfaitement pour o
 - 🏆 Leaderboard
 - 💰 Système de coins
 - 🔥 Combo & Perfect Stack
-- 👨‍💻 Créateur
 
+# 👨‍💻 Créateur
 Projet créé par AstraPlayers.
 
 # ⭐ Support
-
 Si tu aimes le projet :
 
 mets une étoile ⭐ sur le repository
