@@ -35,6 +35,7 @@ Un jeu HTML rapide et addictif où tu dois empiler les blocs parfaitement pour o
 ---
 
 # 🔥 Améliorations prévues
+
 - 🛒 Shop de skins
 - 🎵 Sons et musiques
 - ✨ Effets visuels
@@ -42,12 +43,18 @@ Un jeu HTML rapide et addictif où tu dois empiler les blocs parfaitement pour o
 - 💰 Système de coins
 - 🔥 Combo & Perfect Stack
 
+---
+
 # 👨‍💻 Créateur
+
 Projet créé par AstraPlayers.
 
+---
+
 # ⭐ Support
+
 Si tu aimes le projet :
 
-mets une étoile ⭐ sur le repository
-partage le jeu
-donne ton meilleur score
+- mets une étoile ⭐ sur le repository
+- partage le jeu
+- donne ton meilleur score
